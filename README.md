@@ -1,4 +1,4 @@
-# LearnCRISPR-
+# LearnCRISPR
 For Self Learning CRISPR gene editing Information
 
 ![crispr](images/GRNA-Cas9.png)
