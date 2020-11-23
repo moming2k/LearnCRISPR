@@ -8,6 +8,8 @@ For Self Learning CRISPR gene editing Information
 
 synthetic cell 
 
+http://derk-jan.me/programming-life/
+
 # Reference
 
 [wikipedia page - CRISPR gene editing](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
