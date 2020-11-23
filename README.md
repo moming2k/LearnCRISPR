@@ -3,6 +3,11 @@ For Self Learning CRISPR gene editing Information
 
 ![crispr](images/GRNA-Cas9.png)
 [image source](https://en.wikipedia.org/wiki/CRISPR_gene_editing#/media/File:GRNA-Cas9.png)
+
+# Usage
+
+synthetic cell 
+
 # Reference
 
 [wikipedia page - CRISPR gene editing](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
