@@ -12,7 +12,7 @@ http://derk-jan.me/programming-life/
 
 # Cartoon
 
-[Programming cell](http://derk-jan.me/programming-life/downloads/readings/1.%20Endy%20-%20Adventures%20in%20synthetic%20biology.pdf)
+[Endy - Adventures in synthetic biology](http://derk-jan.me/programming-life/downloads/readings/1.%20Endy%20-%20Adventures%20in%20synthetic%20biology.pdf)
 
 # Reference
 
