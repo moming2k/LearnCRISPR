@@ -20,3 +20,5 @@ http://derk-jan.me/programming-life/
 
 [Azimuth](https://github.com/MicrosoftResearch/Azimuth) - Machine Learning-Based Predictive Modelling of CRISPR/Cas9 guide efficiency. By Microsoft Research
 /
+
+biological computers
