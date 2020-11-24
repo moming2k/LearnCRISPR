@@ -10,6 +10,10 @@ synthetic cell
 
 http://derk-jan.me/programming-life/
 
+# Cartoon
+
+[Programming cell](http://derk-jan.me/programming-life/downloads/readings/1.%20Endy%20-%20Adventures%20in%20synthetic%20biology.pdf)
+
 # Reference
 
 [wikipedia page - CRISPR gene editing](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
