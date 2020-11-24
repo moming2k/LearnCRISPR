@@ -10,6 +10,8 @@ synthetic cell
 
 http://derk-jan.me/programming-life/
 
+[gene coding for the green fluorescent protein (GFP) from the jellyfish Aequorea victoria has been used as a directly visible marker for gene expression and in vivo protein localisation in many different organisms](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-313X.1999.00526.x)
+
 # Cartoon
 
 [Endy - Adventures in synthetic biology](http://derk-jan.me/programming-life/downloads/readings/1.%20Endy%20-%20Adventures%20in%20synthetic%20biology.pdf)
