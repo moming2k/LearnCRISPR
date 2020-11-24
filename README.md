@@ -34,3 +34,5 @@ metabolites
 programmable bacteria
 
 biotechnology 
+
+[How MIT’s new biological ‘computer’ works, and what it could do in the future](https://www.extremetech.com/extreme/232190-how-mits-new-biological-computer-works-and-what-it-could-do-in-the-future)
