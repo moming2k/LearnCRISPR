@@ -28,3 +28,5 @@ colored fluorescent protein
 https://www.extremetech.com/extreme/232190-how-mits-new-biological-computer-works-and-what-it-could-do-in-the-future
 
 metabolites
+
+[Escherichia coli](https://en.wikipedia.org/wiki/Escherichia_coli)
