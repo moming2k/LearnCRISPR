@@ -16,6 +16,13 @@ http://derk-jan.me/programming-life/
 
 [Endy - Adventures in synthetic biology](http://derk-jan.me/programming-life/downloads/readings/1.%20Endy%20-%20Adventures%20in%20synthetic%20biology.pdf)
 
+# Tool
+
+[Cello - The Cello input is a high-level logic specification written in Verilog, a hardware description language into genetic gates](https://www.cidarlab.org/cello) [GitHub](https://github.com/CIDARLAB/cello)
+
+[Toolkit for Hardware, Software, Wetware, Co-Design Research](https://www.cidarlab.org/tools)
+
+
 # Reference
 
 [wikipedia page - CRISPR gene editing](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
